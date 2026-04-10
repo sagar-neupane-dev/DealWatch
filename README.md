@@ -2,9 +2,7 @@
 
 # 📊 DealWatch
 **The Premium Price Tracker for Our E-Commerce**
-Links: 
-www.dealwatchnepal.qzz.io 
-www.dealwatchnepal.vercel.app
+
 
 [![Next.js](https://img.shields.io/badge/Next.js-15-black?style=for-the-badge&logo=next.js)](https://nextjs.org/)
 [![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
@@ -17,7 +15,9 @@ www.dealwatchnepal.vercel.app
 **DealWatch** is a high-performance price monitoring engine that tracks prices on Daraz.np. It provides real-time analytics, historical trends, and automated alerting to help users make smarter purchasing decisions.
 
 </div>
-
+Links: 
+www.dealwatchnepal.qzz.io 
+www.dealwatchnepal.vercel.app
 ### 💎 Key Features
 - **✨ Intelligent Scraper**: Robust extraction logic for product data, ratings, and stock status.
 - **📈 Price Analytics**: Tracks highest, lowest, and average prices to detect true discounts.
