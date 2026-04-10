@@ -15,9 +15,6 @@
 **DealWatch** is a high-performance price monitoring engine that tracks prices on Daraz.np. It provides real-time analytics, historical trends, and automated alerting to help users make smarter purchasing decisions.
 
 </div>
-Links: 
-www.dealwatchnepal.qzz.io 
-www.dealwatchnepal.vercel.app
 ### 💎 Key Features
 - **✨ Intelligent Scraper**: Robust extraction logic for product data, ratings, and stock status.
 - **📈 Price Analytics**: Tracks highest, lowest, and average prices to detect true discounts.
