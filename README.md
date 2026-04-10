@@ -16,10 +16,10 @@
 
 </div>
 ### 💎 Key Features
-- **✨ Intelligent Scraper**: Robust extraction logic for product data, ratings, and stock status.
-- **📈 Price Analytics**: Tracks highest, lowest, and average prices to detect true discounts.
-- **🕒 Automated Sync**: Twice-daily scheduled updates powered by Vercel Cron.
-- **🔔 Smart Alerts**: Instant email notifications via Nodemailer for tracked items.
-- **🧠 AI Summaries**: Automated product insights using Groq-powered high-speed AI.
+- **✨ Intelligent Scraper** : Robust extraction logic for product data, ratings, and stock status.
+- **📈 Price Analytics** : Tracks highest, lowest, and average prices to detect true discounts.
+- **🕒 Automated Sync** : Twice-daily scheduled updates powered by Vercel Cron.
+- **🔔 Smart Alerts** : Instant email notifications via Nodemailer for tracked items.
+- **🧠 AI Summaries** : Automated product insights using Groq-powered high-speed AI.
 
 
